@@ -2,14 +2,14 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://64.media.tumblr.com/e0fe5e2e998584ab6236d27800e047b5/3f871af9735af757-2f/s540x810/b468ab11ad7dbda55c692037e1044a8bd9a12546.gifv">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://64.media.tumblr.com/fa864bd8a22a17721a2a523c32a91eb1/d604820a8bb0cdc0-3b/s540x810/8466444710731902fe817fad545c026bf9cf87c3.gifv" align="right">
 <li>
-<b>Name:</b> KIPIH AKA SKROLLING</li>
+<b>Name:</b> Tёma</li>
 <li>
 <b>Nationality:</b> German
 </li>
@@ -24,13 +24,10 @@
 </li>
 </li>
 <br>
-<p><b>     -<br>
-                  -</b></p>
+<p><b>         
 </div>
 <div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 <div>
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
