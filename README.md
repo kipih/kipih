@@ -2,12 +2,12 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://64.media.tumblr.com/e0fe5e2e998584ab6236d27800e047b5/3f871af9735af757-2f/s540x810/b468ab11ad7dbda55c692037e1044a8bd9a12546.gifv">
+<img src="https://64.media.tumblr.com/e0fe5e2e998584ab6236d27800e047b5/3f871af9735af757-2f/s540x810/b468ab11ad7dbda55c692037e1044a8bd9a12546.gif">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/fa864bd8a22a17721a2a523c32a91eb1/d604820a8bb0cdc0-3b/s540x810/8466444710731902fe817fad545c026bf9cf87c3.gifv" align="right">
+<img src="https://64.media.tumblr.com/fa864bd8a22a17721a2a523c32a91eb1/d604820a8bb0cdc0-3b/s540x810/8466444710731902fe817fad545c026bf9cf87c3.gif" align="right">
 <li>
 <b>Name:</b> Tёma</li>
 <li>
