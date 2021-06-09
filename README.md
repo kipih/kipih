@@ -2,7 +2,6 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://64.media.tumblr.com/e0fe5e2e998584ab6236d27800e047b5/3f871af9735af757-2f/s540x810/b468ab11ad7dbda55c692037e1044a8bd9a12546.gif">
 </div>
 <br>
 <div>
