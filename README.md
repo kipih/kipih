@@ -6,7 +6,6 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/fa864bd8a22a17721a2a523c32a91eb1/d604820a8bb0cdc0-3b/s540x810/8466444710731902fe817fad545c026bf9cf87c3.gif" align="right">
 <li>
 <b>Name:</b> Tёma</li>
 <li>
