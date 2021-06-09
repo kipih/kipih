@@ -9,7 +9,6 @@
 <li>
 <b>Name:</b> Tёma</li>
 <li>
-</li>
 <li>
 <b>Loves:</b> Coding and maybe you :3
 </li>
